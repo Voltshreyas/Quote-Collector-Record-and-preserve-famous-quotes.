@@ -24,6 +24,7 @@ Our vision is to create an immutable and censorship-resistant repository of famo
 ## contract  address:
 0x018b814B9Af9B32a47a1Aabf6fc22AceA9e35a00
 
+![Screenshot_20-3-2025_155153_edu-chain-testnet blockscout com](https://github.com/user-attachments/assets/c192c062-4c8c-479e-b2f9-b955333bee8d)
 
 
 
