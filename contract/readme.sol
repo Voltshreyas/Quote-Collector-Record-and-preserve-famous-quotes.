@@ -20,3 +20,7 @@ Our vision is to create an immutable and censorship-resistant repository of famo
 - **User Contribution**: Users can submit quotes with author names.
 - **Event Logging**: Transactions related to quote submissions are logged on-chain for transparency.
 
+
+## contract  address:
+0x018b814B9Af9B32a47a1Aabf6fc22AceA9e35a00
+
